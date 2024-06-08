@@ -38,7 +38,7 @@ Marvel used Konami JS to reveal a Deadpool weasel, the remnants of which you can
 - <a href="http://mashable.com/2010/07/31/konami-code-sites" rel="nofollow">Almost half the sites in this Mashable article</a>
 - <a href="http://uxdesign.smashingmagazine.com/2012/04/26/gamification-ux-users-win-lose/" rel="nofollow">Smashing Magazine</a>
 - <a href="http://www.bigfishgames.com/daily/gaming-conventions-timeline/" rel="nofollow">The History of Gaming Conventions</a>
-
+- <a href="https://bonn333.eu" rel="nofollow">Cipi cipi ciapa ciapa easter egg</a>
 
 ...and [MANY](https://github.com/georgemandis/konami-js/network/dependents) [more](https://github.com/search?q=%22konami-js%22&type=code)!
 
